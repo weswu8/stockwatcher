@@ -1,10 +1,9 @@
 StockWatcher
 =====
 ![screen-shot](doc/ss-1.JPG)
-Desktop tool for stock price monitoring and alarm, using floating window, marquee effect display.股票价格监控与报警的桌面工具，采用浮动窗口，跑马灯效果显示..
+* Desktop tool for stock price monitoring and alarm, using floating window, marquee effect display.股票价格监控与报警的桌面工具，采用浮动窗口，跑马灯效果显示..
 
 ## 功能介绍:
-* 
 * 桌面浮动窗，跑马灯风格显示股票价格
 * 鼠标悬停，文字停止滚动
 * 鼠标左击，显示分时图
